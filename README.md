@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📅 AI Medical Assistant Chatbot — RAG-based Application
 
 ![Medical Assistant Thumbnail](./assets/medicalAssistant.png)
@@ -199,3 +200,6 @@ $ streamlit run app.py
 ## 🎉 License
 
 This project is licensed under the MIT License.
+=======
+# Ai-medical-assistant-chatbot
+>>>>>>> e8493a5b2b7768dd4c7b70dd86788c32e5ad1ba3
