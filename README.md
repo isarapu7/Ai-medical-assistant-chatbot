@@ -190,16 +190,4 @@ $ streamlit run app.py
 
 ---
 
-## 🌟 Credits
 
-- Built by Supratim Nag
-- Inspired by LangChain, Groq, Pinecone, and FastAPI ecosystems
-
----
-
-## 🎉 License
-
-This project is licensed under the MIT License.
-=======
-# Ai-medical-assistant-chatbot
->>>>>>> e8493a5b2b7768dd4c7b70dd86788c32e5ad1ba3
